@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleverTapAssignment</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="product_viewed">Product Viewed</string>
+</resources>
