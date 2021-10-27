@@ -23,3 +23,5 @@ Email = <youremail>
 Add support for Push Notifications to the app
 	
 Android Documentation - https://developer.clevertap.com/docs/android#section-push-notifications
+	
+To Check the Push Notification Please check Campaign in The Name of Product View Campaign by kk and Get Launched
